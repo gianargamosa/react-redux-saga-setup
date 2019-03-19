@@ -1,0 +1,1 @@
+export const NETWORK_INTERFACE = 'https://jsonplaceholder.typicode.com'
